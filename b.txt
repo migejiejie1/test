@@ -9,3 +9,5 @@ auth 授权
 secrit 秘密的
 
 security 安全的
+
+deployment 部署
