@@ -5,3 +5,7 @@ authorize 批准 授权
 authentication 身份验证
 
 auth 授权
+
+secrit 秘密的
+
+security 安全的
