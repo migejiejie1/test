@@ -1,0 +1,7 @@
+authorication 授权
+
+authorize 批准 授权
+
+authentication 身份验证
+
+auth 授权
