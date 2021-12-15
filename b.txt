@@ -13,3 +13,5 @@ security 安全的
 deployment 部署
 
 dog 狗
+
+cat 猫
