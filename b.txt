@@ -15,3 +15,5 @@ deployment 部署
 dog 狗
 
 cat 猫
+
+status 状态
